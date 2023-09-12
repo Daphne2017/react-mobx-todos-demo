@@ -1,5 +1,14 @@
+<!--
+ * @Author: yanyanshan yanyanshan@bigo.sg
+ * @Date: 2023-09-11 14:47:21
+ * @LastEditors: yanyanshan yanyanshan@bigo.sg
+ * @LastEditTime: 2023-09-12 11:40:21
+ * @FilePath: /react-mobx-todos-demo/README.md
+ * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+-->
 **学习本课程的前置条件**
-
+* https://www.mobxjs.com/api  mobx的学习地址
+* https://cn.mobx.js.org/  学习地址
 * 会使用 create-react-app 搭建工程项目
 * 已经掌握了 React 的基础知识
 * 已经知道了状态管理的相关知识
